@@ -1,5 +1,5 @@
 cold and dry, but everything is my favorite color. My next fav would be purple :)
 The two moons may be a problem
-Two moons on the sky may be a beautiful or may be too bright
-Julia is changing your file. Swara did not know you were changing this line.
-Warning, Julia is changing the last line
+Two moons on the sky may be a beautiful or may be too bright.
+Julia is changing your file. Swara is also changing this line. Julia again.
+
